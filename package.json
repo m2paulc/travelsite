@@ -1,0 +1,28 @@
+{
+  "name": "travelsite",
+  "version": "1.0.0",
+  "description": "travel site",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2paulc/travelsite.git"
+  },
+  "keywords": [
+    "travel",
+    "site"
+  ],
+  "author": "paulc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m2paulc/travelsite/issues"
+  },
+  "homepage": "https://github.com/m2paulc/travelsite#readme"
+}
