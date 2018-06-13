@@ -10,7 +10,7 @@
     "postcss-import": "^11.0.0",
     "postcss-nested": "^2.1.2",
     "postcss-simple-vars": "^4.1.0",
-    "waypoints": "4.0.1"
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
