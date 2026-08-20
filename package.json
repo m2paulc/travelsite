@@ -39,5 +39,14 @@
     "postcss-simple-vars": "^4.1.0",
     "webpack": "^5.104.1",
     "webpack-cli": "^3.0.4"
+  },
+  "overrides": {
+    "svgo": "^3.3.3",
+    "@parcel/optimizer-svgo": {
+      "svgo": "^2.8.1"
+    },
+    "@parcel/optimizer-htmlnano": {
+      "svgo": "^2.8.1"
+    }
   }
 }
