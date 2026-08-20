@@ -47,6 +47,7 @@
     },
     "@parcel/optimizer-htmlnano": {
       "svgo": "^2.8.1"
-    }
+    },
+    "lodash.template": "^4.17.21"
   }
 }
